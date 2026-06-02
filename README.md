@@ -9,7 +9,7 @@
 </div>
 
 <!-- Dynamic Typing Headline -->
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Harshwardhan+Pandey+%F0%9F%91%8B;Full+Stack+%26+AI+Developer;Building+Scalable+ML+Solutions" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Harshwardhan+Pandey;Full+Stack+%26+AI+Developer;Building+Scalable+ML+Solutions" alt="Typing SVG" /></a>
 
 <p align="center">
   <b>Aspiring data science and machine learning professional passionate about solving real-world problems using AI, data analytics, and emerging technologies. I build systems that merge robust full-stack architecture with advanced AI models.</b>
