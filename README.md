@@ -123,20 +123,38 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>📊 GitHub Analytics & Coding Habits</h2>
 </div>
 
+<!-- 1. Core Coding & Language Metrics -->
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-debug04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Advanced Profile Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-debug04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<!-- 2. Dynamic Contribution & Activity Graphs -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-debug04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stat Graph" />
+</div>
+<div align="center" style="margin-top: 10px;">
+  <!-- Note: Requires github-profile-3d-contrib Action to generate the image in a /profile-3d-contrib folder -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph (Requires Action)" onError="this.style.display='none';" />
+</div>
+<div align="center" style="margin-top: 10px;">
   <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-debug04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-debug04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF" alt="Contribution Activity Line Chart" />
   </a>
-  <br/>
-  <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harsh-debug04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harshwardhan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-debug04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
+</div>
+
+<br>
+
+<!-- 3. Real-Time Coding Habits (WakaTime) -->
+<div align="center">
+  <!-- Note: Requires waka-readme-stats GitHub Action to automatically populate -->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
 
 <br/>
