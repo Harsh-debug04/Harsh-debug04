@@ -129,10 +129,10 @@
 <!-- 1. Core Coding & Language Metrics -->
 <div align="center">
   <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harsh-debug04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Advanced Profile Stats Card" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Harsh-debug04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Advanced Profile Stats Card" />
   </a>
   <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-debug04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Harsh-debug04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
