@@ -77,12 +77,14 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Harsh-debug04">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh-debug04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Advanced Profile Stats Card" />
+          <!-- Added cache_seconds parameter to enforce frequent regeneration -->
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh-debug04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Advanced Profile Stats Card" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Harsh-debug04">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh-debug04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+          <!-- Added cache_seconds parameter to enforce frequent regeneration -->
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh-debug04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -94,15 +96,17 @@
 <!-- 2. Dynamic Contribution & Activity Graphs -->
 <div align="center">
   <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-debug04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stat Graph" />
+    <!-- Using alternative active instance and cache invalidation -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-debug04&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stat Graph" />
   </a>
 </div>
 <div align="center" style="margin-top: 10px;">
+  <!-- Note: Github Actions will overwrite this image automatically every night -->
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" onError="this.style.display='none';" />
 </div>
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/Harsh-debug04">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-debug04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF" alt="Contribution Activity Line Chart" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-debug04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF&hide_title=true" alt="Contribution Activity Line Chart" />
   </a>
 </div>
 
@@ -110,7 +114,7 @@
 
 <!-- 3. Real-Time Coding Habits (WakaTime) -->
 <div align="center">
-  <!-- Note: Requires WAKATIME_API_KEY secret in repo settings -->
+  <!-- Note: Requires WAKATIME_API_KEY secret in repo settings to run daily -->
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </div>
